@@ -1,3 +1,5 @@
 print("Stephens Bio")
-print("I live in St. George")
+print("I hang out with my sons in my free time. Usually on the trampoline.")
+print("The reason I started the graduate program was to have the resume to get paid more")
+print("The programming languages I've used are Python, Javascript, Go, SQL, and a little bit of Java and C++")
 print("I have two kids and two dogs")
